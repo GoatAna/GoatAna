@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/anag0at/Twitch-Res/refs/heads/main/IMG_0275.png" />
   
   <h2>Ana!</h2>
-  <blockquote>random cat/goat thing who somehow learned how to use a computer and do cybersec stuff, still learning how to program lmfao</blockquote>
+  <blockquote>random cat/goat thing, highly caffeinated who somehow learned how to use a computer and do cybersec stuff</blockquote>
 
   <a href='https://discord.com/users/280879273835888641' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/280879273835888641" /></a>
   <img alt="who viewed me owo" src="https://komarev.com/ghpvc/?username=anag0at" />
